@@ -1,0 +1,17 @@
+banrep\poc\runners\RunnerSilk.class
+banrep\poc\utilidades\FwEvidenciasSerenity.class
+banrep\poc\utilidades\BeforeSuite.class
+banrep\poc\pageobjects\CreacionCreditosPageObjects.class
+banrep\poc\demoinioc\kmDefinition.class
+banrep\poc\utilidades\SQLDatabaseConnection.class
+banrep\poc\utilidades\Utilidades.class
+banrep\poc\demoinioc\kmSteps.class
+banrep\poc\utilidades\BaseDeDatos.class
+banrep\poc\definitions\CreacionCreditosDefinitions.class
+banrep\poc\demoinioc\KmPageObject.class
+banrep\poc\utilidades\MainPostBuildActions.class
+banrep\poc\AppTest.class
+banrep\poc\utilidades\ConversorResultSetADefaultTableModel.class
+banrep\poc\PruebaRecord.class
+banrep\poc\steps\CreacionCreditosSteps.class
+banrep\poc\RunnerSilk.class
